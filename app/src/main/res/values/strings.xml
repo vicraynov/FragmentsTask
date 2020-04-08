@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments Task</string>
+    <string name="contact_photo_description">Contact photo</string>
+    <string name="name_hint">Input name</string>
+    <string name="address_hint">Input address</string>
+    <string name="image_url_hint">Input image URL address</string>
+    <string name="add_button">Add</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
